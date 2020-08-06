@@ -1,0 +1,441 @@
+{
+  "https://www.google.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 0,
+        "Max-age": 0
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 0,
+        "nosniff": 0
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 0
+      }
+    ]
+  }
+}{
+  "https://www.wikipedia.org": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 106384710
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 0,
+        "nosniff": 0
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 0,
+        "Status": 0
+      }
+    ]
+  }
+}{
+  "https://github.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 31536000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 1
+      }
+    ]
+  }
+}{
+  "https://www.amazon.in": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 47474747
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 0,
+        "Secure": 0,
+        "Httponly": 0
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 1
+      }
+    ]
+  }
+}{
+  "https://stackoverflow.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 2592000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 0,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 0,
+        "nosniff": 0
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 0,
+        "Status": 0
+      }
+    ]
+  }
+}{
+  "https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work?_ga=2.165375036.28496311.1593338847-1288749859.1593338847": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 0,
+        "Max-age": 0
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 0,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 1
+      }
+    ]
+  }
+}{
+  "https://www.netflix.com/in": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 31536000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 0,
+        "Httponly": 0
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 1
+      }
+    ]
+  }
+}{
+  "https://tools.ietf.org/html/rfc7469": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 3600
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 0,
+        "Secure": 0,
+        "Httponly": 0
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 1
+      }
+    ]
+  }
+}{
+  "https://www.instagram.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 31536000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 0
+      }
+    ]
+  }
+}{
+  "https://www.youtube.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 31536000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 0
+      }
+    ]
+  }
+}{
+  "https://www.facebook.com": {
+    "HTTPS": [
+      {
+        "Present": 1
+      }
+    ],
+    "Strict-Transport-Security": [
+      {
+        "Present": 1,
+        "Max-age": 15552000
+      }
+    ],
+    "Set-Cookie": [
+      {
+        "Present": 1,
+        "Secure": 1,
+        "Httponly": 1
+      }
+    ],
+    "X-Content-Type-Options": [
+      {
+        "Present": 1,
+        "nosniff": 1
+      }
+    ],
+    "Access-control-allow-origin": [
+      {
+        "Present": 0,
+        "star": 0,
+        "Null": 0
+      }
+    ],
+    "X-Xss-Protection": [
+      {
+        "Present": 1,
+        "Status": 0
+      }
+    ]
+  }
+}

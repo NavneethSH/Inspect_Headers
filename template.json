@@ -1,0 +1,40 @@
+{
+    "HTTPS":[
+        {
+            "Present":0
+        }
+    ],
+    
+    "Strict-Transport-Security":[
+        {
+            "Present": 0,
+            "Max-age": 0
+        }
+    ],
+    "Set-Cookie":[
+        {
+            "Present": 0,
+            "Secure": 0,
+            "Httponly": 0
+        }
+    ],
+    "X-Content-Type-Options": [
+        {
+            "Present": 0,
+            "nosniff": 0
+        }
+    ],
+    "Access-control-allow-origin" :[
+        {
+            "Present": 0,
+            "star": 0,
+            "Null": 0
+        }
+    ],
+    "X-Xss-Protection" :[
+        {
+            "Present": 0,
+            "Status": 0
+        }
+    ]
+}
