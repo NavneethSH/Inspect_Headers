@@ -19,3 +19,5 @@
  
  ## Output
  * Hdr_data.json
+ 
+ ![](Output.png)
